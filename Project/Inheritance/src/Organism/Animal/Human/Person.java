@@ -1,4 +1,4 @@
-package Human;
+package Organism.Animal.Human;
 public class Person {
     String firstName;
     String lastName;

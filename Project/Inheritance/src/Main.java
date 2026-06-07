@@ -1,5 +1,5 @@
-import Human.*;
 import Organism.Animal.*;
+import Organism.Animal.Human.*;
 import Organism.Plant.*;
 public class Main {
     public static void main(String[] args) {
